@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=amount\ rate\ years
+comment0.target=double\ Calculations(double,\ double,\ int)
+comment1.params=finalAmount1\ finalAmount2
+comment1.target=double\ Difference(double,\ double)
+numComments=2
