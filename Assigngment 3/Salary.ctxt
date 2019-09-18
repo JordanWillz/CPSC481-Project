@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Salary()
+comment1.params=YearlySalary
+comment1.target=Salary(double)
+comment2.params=
+comment2.target=double\ getYearlySalary()
+comment3.params=YearlySalary
+comment3.target=void\ setYearlySalary(double)
+comment4.params=
+comment4.target=double\ calcWeeklySalary()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=java.lang.String\ writeData()
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hourly()
+comment1.params=hourly\ hrsWorkWeekly
+comment1.target=Hourly(double,\ double)
+comment2.params=
+comment2.target=double\ getHourlyRate()
+comment3.params=
+comment3.target=double\ getWeeklyHours()
+comment4.params=rate
+comment4.target=void\ setHourlyRate(double)
+comment5.params=weekHour
+comment5.target=void\ setWeeklyHours(double)
+comment6.params=
+comment6.target=double\ calcWeeklyPay()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=void\ endWeek()
+comment9.params=
+comment9.target=java.lang.String\ writeData()
+numComments=10
